@@ -1,0 +1,11 @@
+# Packet captures and potentially sensitive exports
+*.pcap
+*.pcapng
+*.cap
+*.har
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
