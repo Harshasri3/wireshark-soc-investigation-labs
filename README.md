@@ -23,7 +23,7 @@ The screenshot below shows the Lab 3 capture with the display filter `tcp.flags.
 ## What is in this repository?
 
 - [`LEARNINGS.md`](LEARNINGS.md) – investigation steps, Wireshark display filters, packet-analysis explanations, and findings from each lab.
-- `evidence/wireshark-syn-filter-analysis.png` – a screenshot of the Wireshark interface during the Lab 3 investigation.
+- `wireshark-syn-filter-analysis.png` – a screenshot of the Wireshark interface during the Lab 3 investigation.
 - `README.md` – project overview and setup context.
 
 ## Tools and environment
